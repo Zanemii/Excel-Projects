@@ -7,4 +7,4 @@ Download
 3. The file will download automatically.<br>
 
 Projects
-1. [Movie Theater](https://github.com/USERNAME/REPOSITORY/raw/main/Folder/File.xlsxMovie%20Theater%20-Copy.xlsx)
+1. [Movie Theater](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Movie%20Theater%20-%20Copy.xlsx)
