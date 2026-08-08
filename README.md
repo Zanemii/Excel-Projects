@@ -5,3 +5,5 @@ IT IS RECOMMENDED TO USE CHROME BROWSER
 
 Projects
 1. [Movie Theater](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Movie%20Theater%20-%20Copy.xlsx)
+2. [Gaji dan Potongan](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Gaji%20dan%20Potongan.xlsx)
+3. [Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales.xlsx)
