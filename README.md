@@ -3,7 +3,7 @@ A portfolio of Microsoft Excel projects featuring dashboards, data analysis, bus
 
 IT IS RECOMMENDED TO USE CHROME BROWSER TO OPEN THE FILES
 
-Projects
+### Projects
 1. [Movie Theater](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Movie%20Theater%20-%20Copy.xlsx)
 2. [Gaji dan Potongan](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Gaji%20dan%20Potongan.xlsx)
 3. [Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales.xlsx)
