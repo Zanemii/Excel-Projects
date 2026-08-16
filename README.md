@@ -3,7 +3,7 @@ A portfolio of Microsoft Excel projects featuring data analysis, automation, and
 
 IT IS RECOMMENDED TO USE CHROME BROWSER TO OPEN THE FILES
 
-### Projects
+### Administrative Projects
 1. [Administrasi Desa](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Administrasi%20Desa.xlsx)
 2. [Distribusi](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Distribusi.xlsx)
 3. [Ekspedisi 1](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Ekspedisi%201.xlsx)
@@ -16,3 +16,7 @@ IT IS RECOMMENDED TO USE CHROME BROWSER TO OPEN THE FILES
 10. [Hotel 5](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Hotel%205.xlsx)
 11. [Movie Theater](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Movie%20Theater%20-%20Copy.xlsx)
 12. [Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales.xlsx)
+
+### Analysis Projects
+1. [Adidas Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Adidas_Sales_Dashboard.xlsx) 
+
