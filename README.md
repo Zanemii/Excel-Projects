@@ -1,7 +1,7 @@
 # Excel-Projects
 A portfolio of Microsoft Excel projects featuring data analysis, automation, and real-world case studies that showcase analytical and problem-solving skills.
 
-IT IS RECOMMENDED TO USE CHROME BROWSER TO OPEN THE FILES
+**IT IS RECOMMENDED TO USE CHROME BROWSER TO OPEN THE FILES**
 
 ### Administrative Projects
 1. [Administrasi Desa](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Administrasi%20Desa.xlsx)
