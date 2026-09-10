@@ -20,6 +20,11 @@ A portfolio of Microsoft Excel projects featuring data analysis, automation, and
 14. [Movie Theater](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Movie%20Theater%20-%20Copy.xlsx)
 15. [Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales.xlsx)
 
+### QUIZZES
+1. [QUIZ 1](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Quiz_Excel_1.xlsx)
+2. [QUIZ 2](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Quiz_Excel_2.xlsx)
+3. [QUIZ 3](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Quiz_Excel_3.xlsx)
+
 ### Analysis Projects
 1. [Adidas Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Adidas_Sales_Dashboard.xlsx) 
 
