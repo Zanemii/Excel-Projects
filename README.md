@@ -21,7 +21,7 @@ A portfolio of Microsoft Excel projects featuring data analysis, automation, and
 15. [Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales.xlsx)
 
 ### QUIZZES
-1. [QUIZ 1](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Quiz_Excel_1.xlsx)
+1. [QUIZ 1](https://github.com/Zanemii/Excel-Projects/raw/refs/heads/main/Projects/Quiz_Excel_1.xls)
 2. [QUIZ 2](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Quiz_Excel_2.xlsx)
 3. [QUIZ 3](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Quiz_Excel_3.xlsx)
 
