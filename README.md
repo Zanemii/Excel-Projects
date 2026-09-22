@@ -17,8 +17,10 @@ A portfolio of Microsoft Excel projects featuring data analysis, automation, and
 11. [Klinik 1](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Clinic_1.xlsx)
 12. [Klinik 2](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Clinic_2.xlsx)
 13. [Klinik 3](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Clinic_3.xlsx)
-14. [Movie Theater](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Movie%20Theater%20-%20Copy.xlsx)
-15. [Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales.xlsx)
+14. [Klinik 4](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Clinic_4.xlsx)
+15. [Klinik 5](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Clinic_5.xlsx)
+16. [Movie Theater](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Movie%20Theater%20-%20Copy.xlsx)
+17. [Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales.xlsx)
 
 ### QUIZZES
 1. [QUIZ 1](https://github.com/Zanemii/Excel-Projects/raw/refs/heads/main/Projects/Quiz_Excel_1.xls)
