@@ -20,7 +20,13 @@ A portfolio of Microsoft Excel projects featuring data analysis, automation, and
 14. [Klinik 4](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Clinic_4.xlsx)
 15. [Klinik 5](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Clinic_5.xlsx)
 16. [Movie Theater](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Movie%20Theater%20-%20Copy.xlsx)
-17. [Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales.xlsx)
+17. [Payroll 1](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Payroll_1.xlsx)
+18. [Payroll 2](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Payroll_2.xlsx)
+19. [Payroll 3](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Payroll_3.xlsx)
+20. [Payroll 4](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Payroll_4.xlsx)
+21. [Payroll 5](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Payroll_5.xlsx)
+22. [Payroll 6](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Payroll_6.xlsx)
+23. [Sales](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales.xlsx)
 
 ### QUIZZES
 1. [QUIZ 1](https://github.com/Zanemii/Excel-Projects/raw/refs/heads/main/Projects/Quiz_Excel_1.xls)
