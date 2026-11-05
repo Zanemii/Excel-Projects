@@ -35,6 +35,14 @@ A portfolio of Microsoft Excel projects featuring data analysis, automation, and
 29. [Sales 6](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales_6.xlsx)
 30. [Sales 7](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales_7.xlsx)
 31. [Sales 8](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/Sales_8.xlsx)
+32. [School 1](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/School_1.xlsx)
+33. [School 2](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/School_2.xlsx)
+34. [School 3](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/School_3.xlsx)
+35. [School 4](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/School_4.xlsx)
+36. [School 5](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/School_5.xlsx)
+37. [School 6](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/School_6.xlsx)
+38. [School 7](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/School_7.xlsx)
+39. [School 8](https://github.com/Zanemii/Excel-Projects/raw/main/Projects/School_8.xlsx)
 
 ### QUIZZES
 1. [QUIZ 1](https://github.com/Zanemii/Excel-Projects/raw/refs/heads/main/Projects/Quiz_Excel_1.xls)
